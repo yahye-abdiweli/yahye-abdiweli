@@ -13,7 +13,7 @@ Final-year **BSc Economics** student at **Brunel University of London**, interes
 - Calculus, linear algebra and statistics
 
 ### 🛠️ Tools
-Python · pandas · Excel · Git/GitHub
+Python · pandas · matplotlib · Excel · Git/GitHub
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/yahyeabdiweli)
