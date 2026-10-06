@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yahye 👋
 
-<!--
-**yahye-abdiweli/yahye-abdiweli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year **BSc Economics** student at **Brunel University of London**, interested in using data and programming to solve problems in finance and business.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- **Personal finance analysis**: analysing spending patterns with Python and pandas
+- **Applied econometrics**: data analysis project for my final-year module
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently learning
+- Python (CS50)
+- SQL and Power BI
+- Excel for financial analysis
+- Calculus, linear algebra and statistics
+
+### 🛠️ Tools
+Python · pandas · Excel · Git/GitHub
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/yahyeabdiweli)
