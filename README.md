@@ -3,7 +3,8 @@
 Final-year **BSc Economics** student at **Brunel University of London**, interested in using data and programming to solve problems in finance and business.
 
 ### 🔭 What I'm working on
-- **Personal finance analysis**: analysing spending patterns with Python and pandas
+- **[Personal finance analysis](https://github.com/yahye-abdiweli/personal-finance-analysis)**: cash-flow modelling, stress testing and forecast evaluation on a simulated student dataset (Python, pandas)
+- **[Stock portfolio analysis](https://github.com/yahye-abdiweli/stock-portfolio-analysis)**: risk, return and correlation of UK and US stocks using real market data (in progress)
 - **Applied econometrics**: data analysis project for my final-year module
 
 ### 📚 Currently learning
@@ -13,7 +14,7 @@ Final-year **BSc Economics** student at **Brunel University of London**, interes
 - Calculus, linear algebra and statistics
 
 ### 🛠️ Tools
-Python · pandas · matplotlib · Excel · Git/GitHub
+Python · pandas · NumPy · matplotlib · yfinance · Excel · Git/GitHub
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/yahyeabdiweli)
